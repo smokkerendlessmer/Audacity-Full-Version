@@ -262,4 +262,4 @@ This repository serves as the official landing page for Audacity. The software i
 **Get the most recent version of Audacity today!**
 
 ---
-**Last updated:** 2026-09-21 00:01:32 UTC
+**Last updated:** 2026-09-21 06:02:30 UTC
